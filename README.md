@@ -19,10 +19,10 @@ Linguagem: C
 Editor: VS Code
 
 🚧 Estrutura
-├── exercicios/         # Resoluções dos exercícios semanais
-├── projetos/           # Pequenos projetos e desafios extras
-├── anotações/          # PDFs, markdowns e insights de aula
-└── README.md           # Este arquivo
+├── exercicios/
+├── projetos/
+├── anotações/
+└── README.md
 
 🤝 Contribuições
 Esse é um repositório pessoal, mas se você é colega de curso ou só está passando e quer trocar ideia, puxa no GitHub ou me chama. Conhecimento bom é conhecimento compartilhado.

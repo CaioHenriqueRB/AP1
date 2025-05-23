@@ -1,4 +1,4 @@
-#🚀 Repositório de AP1 – Ciência da Computação | UFJ
+# 🚀Repositório de AP1 – Ciência da Computação | UFJ
 Este repositório é meu espaço pessoal de estudos e desenvolvimento na disciplina Algoritmos e Programação 1 (AP1), parte do curso de Ciência da Computação na UFJ (Universidade Federal de Jataí).
 
 📌 Sobre

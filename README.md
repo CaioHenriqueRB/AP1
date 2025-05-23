@@ -20,8 +20,11 @@ Editor: VS Code
 
 🚧 Estrutura
 ├── exercicios/
+
 ├── projetos/
+
 ├── anotações/
+
 └── README.md
 
 🤝 Contribuições

@@ -19,6 +19,7 @@ Linguagem: C
 Editor: VS Code
 
 🚧 Estrutura
+
 ├── exercicios/
 
 ├── projetos/
